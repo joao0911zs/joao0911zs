@@ -26,5 +26,5 @@ Atualmennte estou me aprofundando meus conhecimentos em Bancos de dados e Front 
  [CRUD Básico](https://github.com/marceloepaoli/exemplo3-turmaB) | CRUD com 2 entidades e validação de dados | ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat) ![H2 Database Badge](https://img.shields.io/badge/H2%20Database-09476B?logo=h2database&logoColor=fff&style=flat) |
 
  ## Como falar comigo
- - [Linkedin](www.linkedin.com/in/joão-vitor-sacramento-santos-518349337)
+ - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-sacramento-santos-518349337/)
  - joaovitorsacra10@gmail.com
