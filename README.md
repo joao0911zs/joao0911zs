@@ -1,5 +1,5 @@
 ## Quem sou eu
-- Estudante de Ads
+- Estudante de Analise de sistema
 - Pretendo atuar como Junior de analista de dados
 Atualmennte estou me aprofundando meus conhecimentos em Bancos de dados e Front - end
 
